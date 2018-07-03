@@ -97,7 +97,7 @@
     position:absolute;
     right:0;
     top:0;
-    background:transparent url(../images/close.png) scroll no-repeat center center;
+    background:transparent url(http://pb9r5wxp7.bkt.clouddn.com/homeimageclose.png) scroll no-repeat center center;
     cursor:pointer;
     z-index:9993;
     zoom:1;
@@ -122,12 +122,12 @@
 #cm-wrap #cm-prev
 {
     left:0;
-    background:transparent url(../images/prev.png) scroll no-repeat 0 center;
+    background:transparent url(http://pb9r5wxp7.bkt.clouddn.com/homeimageprev.png) scroll no-repeat 0 center;
 }
 #cm-wrap #cm-next
 {
     right:0;
-    background:transparent url(../images/next.png) scroll no-repeat 100% center;
+    background:transparent url(http://pb9r5wxp7.bkt.clouddn.com/homeimagenext.png) scroll no-repeat 100% center;
 }
 #cm-wrap #cm-prev:hover,
 #cm-wrap #cm-next:hover,
