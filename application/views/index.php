@@ -36,7 +36,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- banner -->
 	<div class="banner">
 			<!--Slider-->
-			<img width="250px" hight="250px" src="<?php echo URL::imagesite('touxiang.jpg')?>" alt=" " class="img-responsive">
+			<img width="250px" hight="250px" src="http://pb9r5wxp7.bkt.clouddn.com/homeimagetouxiang.jpg" alt=" " class="img-responsive">
 					<h2>Yu  Zheng</h2>
 					<span>项目经理/PHP开发工程师</span>
 				<div class="callbacks_container">
@@ -96,6 +96,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<li><a href="#about" class="scroll hvr-bounce-to-bottom">About</a></li>
 							<li><a href="#education" class="scroll hvr-bounce-to-bottom">Skills</a></li>
 							<li><a href="#gallery" class="scroll hvr-bounce-to-bottom">Projects</a></li>
+							<li><a href="#mail" class="scroll hvr-bounce-to-bottom">Contact</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -172,7 +173,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				     </div>
 				      <div class="clearfix"></div>
 				  </div>				  
-				 
+				  <div class="education-agile-w3l">
+				     <div class="education-agile-w3l-year">
+					       <h4>2011.02-2012.02</h4>
+						   <h6>前端开发</h6>
+				     </div>
+					 <div class="education-agile-w3l-info">
+					       <h4>工作内容</h4>
+						   <p>负责根据设计稿，使用div+css对页面进行编码排版，页面效果制作</p>
+						  
+				     </div>
+				      <div class="clearfix"></div>
+				  </div>
 			  </div>
 		</div>
 		<div class="col-md-6 skills">
@@ -194,12 +206,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="portfolio" id="gallery">
 		<div class="container">
 				<h3 class="w3l_head">My Projects</h3>
-			<p class="w3ls_head_para">See My Works</p>
+			<p class="w3ls_head_para">项目展示</p>
 				<div class="agileits_portfolio_grids">
 				<div class="col-md-4 agileits_portfolio_grid">
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('1.png')?>">
-							<img src="<?php echo URL::imagesite('1.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage1.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage1.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 								
@@ -207,8 +219,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('4.png')?>">
-							<img src="<?php echo URL::imagesite('4.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage4.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage4.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 							
@@ -218,8 +230,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 				<div class="col-md-4 agileits_portfolio_grid">
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('2.png')?>">
-							<img src="<?php echo URL::imagesite('2.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage2.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage2.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 								
@@ -227,8 +239,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('5.png')?>">
-							<img src="<?php echo URL::imagesite('5.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage5.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage5.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 								
@@ -238,8 +250,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 				<div class="col-md-4 agileits_portfolio_grid">
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('3.png')?>">
-							<img src="<?php echo URL::imagesite('3.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage3.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage3.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 								
@@ -247,8 +259,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('6.png')?>">
-							<img src="<?php echo URL::imagesite('6.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage6.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage6.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 							
@@ -256,8 +268,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="<?php echo URL::imagesite('7.png')?>">
-							<img src="<?php echo URL::imagesite('7.png')?>" alt=" " class="img-responsive">
+						<a class="cm-overlay" href="http://pb9r5wxp7.bkt.clouddn.com/homeimage7.png">
+							<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage7.png" alt=" " class="img-responsive">
 							<div class="overlay">
 								
 								
@@ -277,55 +289,69 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div id="counter" class="counter">
 	<div class="container">
 			<!--count-down -->	
-		<div style="text-align:center; margin-top:60px;">
-			<img src="<?php echo URL::imagesite('8.jpg')?>" alt=" ">
-			<img src="<?php echo URL::imagesite('9.jpg')?>" alt=" ">
+		<div style="text-align:center; margin:50px 20px;">
+			<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage8.jpg" alt=" ">
+			<img src="http://pb9r5wxp7.bkt.clouddn.com/homeimage9.jpg" alt=" ">
 		</div>		
 	</div>
 </div>
 <!--counter-->
+<!-- mail -->
+<div class="mail" id="mail">
+	<div class="container">
+		<h3 class="w3l_head w3l_head1">Contact Me</h3>
+		<p class="w3ls_head_para w3ls_head_para1">请联系我吧</p>
+		<div class="w3_mail_grids">
+			<div style="text-align:center;">
+				<div style="margin:20px 0px;"><img width="190px;" alt="" src="http://pb9r5wxp7.bkt.clouddn.com/homeimagewechart.png"></div>
+				<div style="font-size:1.1em;color:#bf0917;">承接订制微信小程序、微信公众号等业务，有兴趣的朋友请加微信</div>
+			</div>
+		</div>
+	</div>
+</div>	
+<!-- //mail -->
 <!-- footer -->
-	<div class="w3l_footer">
-		<div class="container">
+<div class="w3l_footer">
+	<div class="container">
+		
+		<div class="w3ls_footer_grids">
 			
-			<div class="w3ls_footer_grids">
-				
-				<div class="w3ls_footer_grid">
-					<div class="col-md-4 w3ls_footer_grid_left">
-						<div class="w3ls_footer_grid_leftl">
-							<i class="fa fa-map-marker" aria-hidden="true"></i>
-						</div>
-						<div class="w3ls_footer_grid_leftr">
-							<h4>Location</h4>
-							<p>中国 上海</p>
-						</div>
-						<div class="clearfix"> </div>
+			<div class="w3ls_footer_grid">
+				<div class="col-md-4 w3ls_footer_grid_left">
+					<div class="w3ls_footer_grid_leftl">
+						<i class="fa fa-map-marker" aria-hidden="true"></i>
 					</div>
-					<div class="col-md-4 w3ls_footer_grid_left">
-						<div class="w3ls_footer_grid_leftl">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</div>
-						<div class="w3ls_footer_grid_leftr">
-							<h4>Email</h4>
-							<a href="mailto:350405445@qq.com">350405445@qq.com</a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>	
-					<div class="col-md-4 w3ls_footer_grid_left">
-						<div class="w3ls_footer_grid_leftl">
-							<i class="fa fa-phone" aria-hidden="true"></i>
-						</div>
-						<div class="w3ls_footer_grid_leftr">
-							<h4>Call Me</h4>
-							<p>*</p>
-						</div>
-						<div class="clearfix"> </div>
-					</div>				
+					<div class="w3ls_footer_grid_leftr">
+						<h4>Location</h4>
+						<p>中国 上海</p>
+					</div>
 					<div class="clearfix"> </div>
 				</div>
+				<div class="col-md-4 w3ls_footer_grid_left">
+					<div class="w3ls_footer_grid_leftl">
+						<i class="fa fa-envelope" aria-hidden="true"></i>
+					</div>
+					<div class="w3ls_footer_grid_leftr">
+						<h4>Email</h4>
+						<a href="mailto:350405445@qq.com">350405445@qq.com</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>	
+				<div class="col-md-4 w3ls_footer_grid_left">
+					<div class="w3ls_footer_grid_leftl">
+						<i class="fa fa-phone" aria-hidden="true"></i>
+					</div>
+					<div class="w3ls_footer_grid_leftr">
+						<h4>Call Me</h4>
+						<p>*</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>				
+				<div class="clearfix"> </div>
 			</div>
-		</div>		
-	</div>
+		</div>
+	</div>		
+</div>
 <!-- //footer -->
 <script src="<?php echo URL::jssite('jquery-2.2.3.min.js')?>"></script> 
 <!-- skills -->
