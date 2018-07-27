@@ -36,7 +36,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- banner -->
 	<div class="banner">
 			<!--Slider-->
-			<img width="250px" hight="250px" src="http://pb9r5wxp7.bkt.clouddn.com/homeimagetouxiang.jpg" alt=" " class="img-responsive">
+			<img width="250px" hight="250px" src="http://pb9r5wxp7.bkt.clouddn.com/homeimagetouxiang2.jpg" alt=" " class="img-responsive">
 					<h2>Yu  Zheng</h2>
 					<span>项目经理/PHP开发工程师</span>
 				<div class="callbacks_container">
